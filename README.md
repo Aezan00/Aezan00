@@ -1,16 +1,76 @@
 #
-Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Qingda(Michael) Mai !
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Aezan Pathan !
 =============================================================================================================================================
 [![Linkedin](https://img.shields.io/badge/Linkedin-Michael--Mai-blue)](https://www.linkedin.com/in/michael-mai1/)
 
+# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Aezan Pathan!
+=============================================================================================================================================
 
+[![Linkedin](https://img.shields.io/badge/Linkedin-Aezan--Pathan-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
+
+
+## Introduction
+Hello, I'm Aezan Pathan - a passionate programmer with a creative edge and love for data solutions. When I'm not coding, you'll find me exploring fascinating worlds through anime and comics!
+
+---
+## ⚡ Toolbox
+
+### Programming & Data
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="Pytorch" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="50" height="50">
+
+### Web & More
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="50" height="50">
+
+### Databases & Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
+
+### Cloud & ML
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50">
+
+---
+## 💡 Creative Problem-Solving
+I specialize in designing efficient ETL processes and data solutions using cutting-edge tools. My approach combines:
+- **Analytical Thinking**: Breaking down complex problems
+- **Innovative Solutions**: Leveraging latest technologies
+- **Full Stack Flexibility**: From C#/.NET to modern web frameworks
+
+---
+## 🚀 Continuous Learning
+Currently exploring:
+- Real-time data processing
+- 3D visualization with Three.js
+- Cloud-native architectures
+- Advanced ML implementations
+
+---
+## 🎮 Hobbies & Interests
+When not coding:
+📺 Binging anime classics & new releases  
+📚 Reading manga/manhwa/manhua  
+🎮 Exploring game development  
+✍️ Contributing to open-source projects
+
+---
+## 📫 Let's Connect!
+Let's collaborate on innovative solutions! Reach me via:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aezan_Pathan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
 Introduction
 
-Hello, I am excited to present myself as a dedicated graduate student from the University of Waterloo, specializing in Data cloud infrastructure/ Data engineering/ Optimization/ Machine Learning/ Financial Engineering. My academic journey has equipped me with a solid foundation in computer science and a profound passion for working with data. My goal is to make a meaningful impact in the realms of technology and innovation.
+Hello, I am excited to present myself as a programmer.
 
-😄Academic Background
 
-During my time at the University of Waterloo, I have gained a comprehensive understanding of fundamental data concepts, various programming languages, and database systems. Through engaging coursework, hands-on projects, and collaborative efforts with both professors and peers, I have developed expertise in data modeling, data integration, data transformation, and data warehousing.
 
 ---
 ⚡Toolbox
